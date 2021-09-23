@@ -1,1 +1,1 @@
-#Next.js + Tailwind CSS template
+*Next.js + Tailwind CSS template*
